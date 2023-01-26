@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kostki do gry</string>
+    <string name="rzucic">Rzucić</string>
+    <string name="jedna_kostka">Jedna kostka</string>
+</resources>
